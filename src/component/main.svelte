@@ -15,11 +15,5 @@
     </div>
 
     <div class="bg-black bg-opacity-5 h-[0.1rem] mx-16"></div>
-
-    <Feature />
-
-    <div class="bg-black bg-opacity-5 h-[0.1rem] mx-16"></div>
-
-    <Projects />
   </div>
 </main>
